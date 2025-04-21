@@ -9,4 +9,4 @@ Lio, a leading telecommunications provider in India, is planning a strategic mer
 5. Downgrade Patterns: Analysis of subscription downgrades and associated trends.
 6. Content Consumption Behavior: Patterns in total watch time, device preferences, and variations by user demographics.
 
-Dashboard link:  https://app.powerbi.com/view?r=eyJrIjoiZDAyNjRmNGEtNzM4Yy00Mzg4LTlkMzItMjg0YzQ2NjAwZjU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Dashboard link:  https://app.powerbi.com/view?r=eyJrIjoiZDAyNjRmNGEtNzM4Yy00Mzg4LTlkMzItMjg0YzQ2NjAwZjU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=05a119e1e02503410218
